@@ -1,0 +1,9 @@
+.container {
+    padding: 10px;
+}
+
+.pagination {
+    text-align: center;
+    margin-top: 10px;
+    padding: 20px;
+}
